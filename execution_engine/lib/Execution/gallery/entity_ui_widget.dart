@@ -1,0 +1,5 @@
+mixin TxnGeneralEntities {
+  TxnGeneralEntities? txnGeneralEntities;
+
+  
+}

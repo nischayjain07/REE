@@ -1,0 +1,10 @@
+export 'padding.dart';
+export 'slider.dart';
+export 'switchListTile.dart';
+export 'colorPicker.dart';
+export 'textField.dart';
+export 'textField1.dart';
+export 'textAlignContainer.dart';
+export 'textStyleContainer.dart';
+export 'fontStyle.dart';
+export 'animation.dart';
